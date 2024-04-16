@@ -7111,8 +7111,8 @@ td.visible-print {
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
-.topvideobig {display: block !important; }
-.topvideosmall {display: none !important;}
+.topvideobig {display: none !important; }
+.topvideosmall {display: block !important;}
 }
 
 @media (min-width: 1200px) {
